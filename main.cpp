@@ -7,8 +7,8 @@
 #include <iostream>
 
 int main() {
- 
-   std::cout << "Hello, world! My number is " << 104790387 % 13 << '!' << std::endl;
+  //Prinoout "Hello, world! my number is " yout numbervalue % 13 " !"
+   
 
     return 0;
 }
