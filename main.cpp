@@ -7,7 +7,7 @@
 #include <iostream>
 
 int main() {
-  //Prinoout "Hello, world! my number is " yout numbervalue % 13 " !"
+  //Prinoout "Hello, world! my number is " yout numbervalue % 13 " !" use modulo
    
 
     return 0;
